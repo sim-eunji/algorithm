@@ -7,7 +7,7 @@
 ## 기본적인 자료구조들 
 1. 선형 구조 
   - 배열 (Array)
-  - 연결 리스트 (Linked List)
+  - [연결 리스트 (Linked List)](Data-Structures/Linked-List)
   - 스택 (Stack)
   - 큐 (Queue)
 
